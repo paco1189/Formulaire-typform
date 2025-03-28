@@ -1,0 +1,144 @@
+{
+  "id": "qHQsRIyd",
+  "title": "Droit de la propriété intellectuelle- Brevets et innovations technologiques",
+  "workspace": {
+    "href": "https://api.typeform.com/workspaces/6Uk4A2"
+  },
+  "theme": {
+    "href": "https://api.typeform.com/themes/zkZ2BRN3"
+  },
+  "settings": {
+    "language": "fr",
+    "progress_bar": "proportion",
+    "is_public": true,
+    "show_progress_bar": true,
+    "show_typeform_branding": false,
+    "show_time_to_complete": true,
+    "show_number_of_submissions": false,
+    "show_cookie_consent": false,
+    "show_question_number": false,
+    "show_key_hint_on_choices": false,
+    "hide_navigation": false,
+    "meta": {
+      "allow_indexing": false
+    }
+  },
+  "thankyou_screens": [
+    {
+      "ref": "73284148-6448-4ba9-adb0-602737851d7a",
+      "type": "thankyou_screen",
+      "properties": {
+        "show_button": false,
+        "share_icons": false
+      }
+    },
+    {
+      "ref": "default_tys",
+      "title": "C'est fait ! Merci pour votre temps.",
+      "type": "thankyou_screen",
+      "properties": {
+        "show_button": false,
+        "share_icons": false
+      }
+    }
+  ],
+  "fields": [
+    {
+      "title": "Quelle est la nature de la situation concernant votre brevet ou innovation ?",
+      "type": "multiple_choice",
+      "ref": "05826485-9e57-4421-b35f-9fc1207fee5d",
+      "properties": {
+        "description": "Expliquez si vous rencontrez des difficultés avec l’usage de votre brevet ou son enregistrement. Si votre brevet est contesté, sélectionnez l’option la plus appropriée.",
+        "allow_other_choice": true,
+        "choices": [
+          {
+            "label": "Mon brevet est utilisé sans mon autorisation"
+          },
+          {
+            "label": "Mon brevet est contesté par un tiers"
+          },
+          {
+            "label": "Mon brevet est contesté pour des raisons de validité (nouveauté, brevetabilité)"
+          },
+          {
+            "label": "Je rencontre des difficultés pour protéger ou enregistrer mon innovation"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Votre brevet ou innovation est-il déjà enregistré en Suisse ?",
+      "type": "multiple_choice",
+      "ref": "b07f2b71-c54f-4030-8550-7444730c55be",
+      "properties": {
+        "description": "Indiquer si votre brevet est déjà enregistré est essentiel pour savoir à quelle étape de protection vous êtes.",
+        "choices": [
+          {
+            "label": "Oui, mon brevet est enregistré"
+          },
+          {
+            "label": "Non, je n’ai pas encore déposé de demande"
+          },
+          {
+            "label": "En cours d’enregistrement"
+          },
+          {
+            "label": "Je ne sais pas"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Avez-vous déjà entrepris des démarches pour défendre ou protéger votre brevet ?",
+      "type": "multiple_choice",
+      "ref": "dc71f5a0-d424-4381-a85b-178fd2984700",
+      "properties": {
+        "description": "Cela permet de voir si vous avez déjà entamé des actions pour protéger votre brevet, comme des réclamations ou des actions légales.",
+        "choices": [
+          {
+            "label": "Oui, j’ai déposé une plainte ou une réclamation"
+          },
+          {
+            "label": "Oui, j’ai contacté un avocat spécialisé"
+          },
+          {
+            "label": "Non, je n’ai encore rien fait"
+          },
+          {
+            "label": "Autre"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Avez-vous des documents liés à ce brevet ou innovation (certificat de brevet, correspondances) ?",
+      "type": "multiple_choice",
+      "ref": "6ed5129e-4229-4828-aa97-64b3ffc1752d",
+      "properties": {
+        "description": "Les documents comme le certificat de brevet ou des correspondances peuvent être cruciaux pour évaluer et défendre votre brevet. Si vous les avez, indiquez-le ici.",
+        "choices": [
+          {
+            "label": "Oui"
+          },
+          {
+            "label": "Non"
+          },
+          {
+            "label": "Je ne sais pas"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Souhaitez-vous ajouter d'autres informations ou détails sur votre situation ?",
+      "type": "long_text",
+      "ref": "8bc5b1dc-76c9-4f3a-b737-268720ae6efa",
+      "properties": {
+        "description": "Si vous souhaitez ajouter des informations supplémentaires ou des détails spécifiques, c’est ici que vous pouvez le faire."
+      }
+    }
+  ],
+  "hidden": [
+    "juriup_data"
+  ]
+}
